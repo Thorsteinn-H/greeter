@@ -1,3 +1,7 @@
+package src;
+
+import src.Language;
+
 public class Greeter {
 
     private Language language = Language.ENGLISH;
