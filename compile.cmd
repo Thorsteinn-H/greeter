@@ -1,1 +1,1 @@
-javac -d bin src\*.java
+javac -d bin src/is.hi.the85.hbv202g.ass3.frontend/UserInterface.java src/is.hi.the85.hbv202g.ass3.backend/Language.java src/is.hi.the85.hbv202g.ass3.backend/Greeter.java src\Main.java

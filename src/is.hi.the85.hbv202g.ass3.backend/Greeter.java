@@ -1,6 +1,6 @@
-package src;
+package src.is.hi.the85.hbv202g.ass3.backend;
 
-import src.Language;
+import src.is.hi.the85.hbv202g.ass3.backend.Language;
 
 public class Greeter {
 
